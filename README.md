@@ -116,31 +116,31 @@ Bulan transaksi diambil dari bagian tahun dan bulan pada tanggal transaksi (`YYY
 
 ### Dashboard
 
-![Tampilan dashboard keuangan](dashboard.png)
+![Tampilan dashboard keuangan](screenshots/dashboard.png)
 
 ### Daftar Transaksi
 
-![Tampilan transaksi](transaksi.png)
+![Tampilan transaksi](screenshots/transaksi.png)
 
-![Tampilan seluruh transaksi](semuatransaksi.png)
+![Tampilan seluruh transaksi](screenshots/semuatransaksi.png)
 
 ### Kategori Transaksi
 
-![Tampilan kategori transaksi](kategori.png)
+![Tampilan kategori transaksi](screenshots/kategori.png)
 
 ### Laporan Laba-Rugi
 
-![Tampilan laporan laba-rugi](laporan.png)
+![Tampilan laporan laba-rugi](screenshots/laporan.png)
 
 ### Analisis Keuangan
 
-![Tampilan analisis keuangan](analisis.png)
+![Tampilan analisis keuangan](screenshots/analisis.png)
 
-![Tampilan perbandingan keuangan bulanan](perbandingankeuangan.png)
+![Tampilan perbandingan keuangan bulanan](screenshots/perbandingankeuangan.png)
 
 ### Transaksi Terakhir
 
-![Tampilan transaksi terakhir](transaksiterakhir.png)
+![Tampilan transaksi terakhir](screenshots/transaksiterakhir.png)
 
 ## Petunjuk Menjalankan Aplikasi
 
